@@ -13,7 +13,7 @@
   <img align="left" alt="Leonardo's Whatsapp" width="22px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp.png" />
 </a>
 <a href="https://www.hackerrank.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://toppng.com/uploads/preview/instagram-logo-svg-png-icon-free-download-transparent-background-facebook-ico-115628567207gmobgmyyy.png" />
+  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://bellarosa.com.br/wp-content/uploads/2020/05/33-337540_clip-transparent-stock-clock-svg-instagram-instagram-icon.jpg" />
 </a>
 <a href="https://www.kaggle.com/ajaykhalsa">
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
