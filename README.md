@@ -23,6 +23,6 @@
 - Bachelor of Statistics at the Campinas State University.
 - Specialist in Artificial Intelligence by PUC-Minas
 - Data Science Specialist from the Federal Technological University of Paraná
-- I work with R and Python in general, but my heart goes with R <img src="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/blue-heart.png" width="30px">
+- I work with R and Python in general, but my heart goes with R <img src="https://toppng.com/uploads/preview/red-heart-neon-corazon-rojo-vermelho-sticker-freetoedit-coracao-png-fundo-transparente-1156288396451rawuygtw.png" width="30px">
 
 ⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa) 
