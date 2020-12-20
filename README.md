@@ -13,8 +13,8 @@
   <img align="left" alt="Leonardo's Whatsapp" width="22px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp.png" />
 </a>
 
-<a href="https://www.kaggle.com/ajaykhalsa">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+<a href="https://www.kaggle.com/leonardopena">
+  <img align="left" alt="Leonardo's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
