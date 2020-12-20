@@ -24,6 +24,6 @@
 - Specialist in Artificial Intelligence by PUC-Minas
 - Data Science Specialist from the Federal Technological University of Paraná
 - I work with R and Python in general, but my heart goes with R :blue_heart:
-- 
+
 
 ⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa) 
