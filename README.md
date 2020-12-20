@@ -12,9 +12,7 @@
 <a href="https://api.whatsapp.com/send?phone=5519991921108">
   <img align="left" alt="Leonardo's Whatsapp" width="22px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp.png" />
 </a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvsMnehbVq8AXpRSXU2XKMLOp6_670i2QYg&usqp=CAU" />
-</a>
+
 <a href="https://www.kaggle.com/ajaykhalsa">
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
