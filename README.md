@@ -19,10 +19,10 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Ajay Singh Khalsa
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+### I am Leonardo Pena, from Brazil
+- Bachelor of Statistics at the Campinas State University.
+- Specialist in Artificial Intelligence by PUC-Minas
+- Data Science Specialist from the Federal Technological University of Paraná
+- I work with R and Python in general, but my heart goes with R <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
+⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa) 
