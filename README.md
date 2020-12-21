@@ -20,10 +20,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Leonardo Pena, from Brazil :brazil:
-- Bachelor of Statistics at the Campinas State University. 
+- Bachelor of Statistics at Campinas State University. 
 - Specialist in Artificial Intelligence by PUC-Minas
 - Data Science Specialist from the Federal Technological University of Paraná
 - I work with R and Python in general, but my heart goes with R :blue_heart:
 - I've played around with fraud detection, credit scoring, demand forecasting, pricing and more
 
-Thank you and let's get in touch 
+Thank you and let's keep in touch 
